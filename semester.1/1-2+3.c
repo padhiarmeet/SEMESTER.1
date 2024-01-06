@@ -7,7 +7,7 @@ void main(){
     while(i<=n){
         if(i%2==0){
             sum-=i;
-             else{sum+=i}
+         else{sum+=i}
         }
        sum=sum+i;
     }
